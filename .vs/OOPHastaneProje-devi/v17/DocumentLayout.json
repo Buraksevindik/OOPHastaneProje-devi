@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\IRandevuIslemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClassLibrary1\\IRandevuIslemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\Randevu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClassLibrary1\\Randevu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\Kisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClassLibrary1\\Kisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\Hastane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClassLibrary1\\Hastane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\Hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClassLibrary1\\Hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\Doktor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClassLibrary1\\Doktor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\Bolum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClassLibrary1\\Bolum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Randevu.cs",
+              "DocumentMoniker": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\Randevu.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Randevu.cs",
+              "ToolTip": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\Randevu.cs",
+              "RelativeToolTip": "ClassLibrary1\\Randevu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T12:43:09.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IRandevuIslemleri.cs",
+              "DocumentMoniker": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\IRandevuIslemleri.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\IRandevuIslemleri.cs",
+              "ToolTip": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\IRandevuIslemleri.cs",
+              "RelativeToolTip": "ClassLibrary1\\IRandevuIslemleri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T12:43:08.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hastane.cs",
+              "DocumentMoniker": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\Hastane.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Hastane.cs",
+              "ToolTip": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\Hastane.cs",
+              "RelativeToolTip": "ClassLibrary1\\Hastane.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T12:43:07.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hasta.cs",
+              "DocumentMoniker": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\Hasta.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Hasta.cs",
+              "ToolTip": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\Hasta.cs",
+              "RelativeToolTip": "ClassLibrary1\\Hasta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T12:43:07.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Doktor.cs",
+              "DocumentMoniker": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\Doktor.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Doktor.cs",
+              "ToolTip": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\Doktor.cs",
+              "RelativeToolTip": "ClassLibrary1\\Doktor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T12:43:06.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bolum.cs",
+              "DocumentMoniker": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\Bolum.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Bolum.cs",
+              "ToolTip": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\Bolum.cs",
+              "RelativeToolTip": "ClassLibrary1\\Bolum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T12:43:06.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kisi.cs",
+              "DocumentMoniker": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\Kisi.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Kisi.cs",
+              "ToolTip": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\Kisi.cs",
+              "RelativeToolTip": "ClassLibrary1\\Kisi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T12:42:27.452Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

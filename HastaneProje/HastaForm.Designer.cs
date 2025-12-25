@@ -104,6 +104,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.Turquoise;
             ClientSize = new Size(800, 450);
             Controls.Add(label3);
             Controls.Add(label2);

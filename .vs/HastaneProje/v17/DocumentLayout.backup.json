@@ -1,62 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sevin\\source\\repos\\HastaneProje\\",
+  "WorkspaceRootPath": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B042D6E-9582-4076-9319-AE9C93E6F407}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\sevin\\source\\repos\\hastaneproje\\classlibrary1\\hastane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B042D6E-9582-4076-9319-AE9C93E6F407}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\sevin\\onedrive\\belgeler\\oophastaneproje-devi\\classlibrary1\\hastane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B042D6E-9582-4076-9319-AE9C93E6F407}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\hastane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2F5A3D5-EF69-4FAB-8F32-0D9E08EA92FB}|HastaneProje\\HastaneProje.csproj|c:\\users\\sevin\\source\\repos\\hastaneproje\\hastaneproje\\hastaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2F5A3D5-EF69-4FAB-8F32-0D9E08EA92FB}|HastaneProje\\HastaneProje.csproj|solutionrelative:hastaneproje\\hastaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2F5A3D5-EF69-4FAB-8F32-0D9E08EA92FB}|HastaneProje\\HastaneProje.csproj|C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\hastaneproje\\girisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2F5A3D5-EF69-4FAB-8F32-0D9E08EA92FB}|HastaneProje\\HastaneProje.csproj|solutionrelative:hastaneproje\\girisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B042D6E-9582-4076-9319-AE9C93E6F407}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\sevin\\source\\repos\\hastaneproje\\classlibrary1\\doktor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B042D6E-9582-4076-9319-AE9C93E6F407}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\doktor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B042D6E-9582-4076-9319-AE9C93E6F407}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\sevin\\source\\repos\\hastaneproje\\classlibrary1\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B042D6E-9582-4076-9319-AE9C93E6F407}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B042D6E-9582-4076-9319-AE9C93E6F407}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\sevin\\source\\repos\\hastaneproje\\classlibrary1\\randevu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B042D6E-9582-4076-9319-AE9C93E6F407}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\randevu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B042D6E-9582-4076-9319-AE9C93E6F407}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\sevin\\source\\repos\\hastaneproje\\classlibrary1\\bolum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B042D6E-9582-4076-9319-AE9C93E6F407}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\bolum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B042D6E-9582-4076-9319-AE9C93E6F407}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\sevin\\source\\repos\\hastaneproje\\classlibrary1\\irandevuislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B042D6E-9582-4076-9319-AE9C93E6F407}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\sevin\\onedrive\\belgeler\\oophastaneproje-devi\\classlibrary1\\irandevuislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B042D6E-9582-4076-9319-AE9C93E6F407}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\irandevuislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B042D6E-9582-4076-9319-AE9C93E6F407}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\sevin\\source\\repos\\hastaneproje\\classlibrary1\\kisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B042D6E-9582-4076-9319-AE9C93E6F407}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\kisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2F5A3D5-EF69-4FAB-8F32-0D9E08EA92FB}|HastaneProje\\HastaneProje.csproj|c:\\users\\sevin\\source\\repos\\hastaneproje\\hastaneproje\\doktorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2F5A3D5-EF69-4FAB-8F32-0D9E08EA92FB}|HastaneProje\\HastaneProje.csproj|solutionrelative:hastaneproje\\doktorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2F5A3D5-EF69-4FAB-8F32-0D9E08EA92FB}|HastaneProje\\HastaneProje.csproj|C:\\Users\\sevin\\source\\repos\\HastaneProje\\hastaneproje\\doktorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B2F5A3D5-EF69-4FAB-8F32-0D9E08EA92FB}|HastaneProje\\HastaneProje.csproj|C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\hastaneproje\\doktorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B2F5A3D5-EF69-4FAB-8F32-0D9E08EA92FB}|HastaneProje\\HastaneProje.csproj|solutionrelative:hastaneproje\\doktorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2F5A3D5-EF69-4FAB-8F32-0D9E08EA92FB}|HastaneProje\\HastaneProje.csproj|C:\\Users\\sevin\\source\\repos\\HastaneProje\\hastaneproje\\hastaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B2F5A3D5-EF69-4FAB-8F32-0D9E08EA92FB}|HastaneProje\\HastaneProje.csproj|C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\hastaneproje\\hastaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B2F5A3D5-EF69-4FAB-8F32-0D9E08EA92FB}|HastaneProje\\HastaneProje.csproj|solutionrelative:hastaneproje\\hastaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2F5A3D5-EF69-4FAB-8F32-0D9E08EA92FB}|HastaneProje\\HastaneProje.csproj|c:\\users\\sevin\\source\\repos\\hastaneproje\\hastaneproje\\girisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2F5A3D5-EF69-4FAB-8F32-0D9E08EA92FB}|HastaneProje\\HastaneProje.csproj|c:\\users\\sevin\\onedrive\\belgeler\\oophastaneproje-devi\\hastaneproje\\doktorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F5A3D5-EF69-4FAB-8F32-0D9E08EA92FB}|HastaneProje\\HastaneProje.csproj|solutionrelative:hastaneproje\\doktorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B042D6E-9582-4076-9319-AE9C93E6F407}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\sevin\\onedrive\\belgeler\\oophastaneproje-devi\\classlibrary1\\randevu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B042D6E-9582-4076-9319-AE9C93E6F407}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\randevu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F5A3D5-EF69-4FAB-8F32-0D9E08EA92FB}|HastaneProje\\HastaneProje.csproj|c:\\users\\sevin\\onedrive\\belgeler\\oophastaneproje-devi\\hastaneproje\\girisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2F5A3D5-EF69-4FAB-8F32-0D9E08EA92FB}|HastaneProje\\HastaneProje.csproj|solutionrelative:hastaneproje\\girisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2F5A3D5-EF69-4FAB-8F32-0D9E08EA92FB}|HastaneProje\\HastaneProje.csproj|c:\\users\\sevin\\source\\repos\\hastaneproje\\hastaneproje\\hastaform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2F5A3D5-EF69-4FAB-8F32-0D9E08EA92FB}|HastaneProje\\HastaneProje.csproj|solutionrelative:hastaneproje\\hastaform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B042D6E-9582-4076-9319-AE9C93E6F407}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\sevin\\onedrive\\belgeler\\oophastaneproje-devi\\classlibrary1\\kisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B042D6E-9582-4076-9319-AE9C93E6F407}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\kisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2F5A3D5-EF69-4FAB-8F32-0D9E08EA92FB}|HastaneProje\\HastaneProje.csproj|C:\\Users\\sevin\\source\\repos\\HastaneProje\\hastaneproje\\girisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B2F5A3D5-EF69-4FAB-8F32-0D9E08EA92FB}|HastaneProje\\HastaneProje.csproj|solutionrelative:hastaneproje\\girisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{7B042D6E-9582-4076-9319-AE9C93E6F407}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\sevin\\onedrive\\belgeler\\oophastaneproje-devi\\classlibrary1\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B042D6E-9582-4076-9319-AE9C93E6F407}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B042D6E-9582-4076-9319-AE9C93E6F407}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\sevin\\onedrive\\belgeler\\oophastaneproje-devi\\classlibrary1\\doktor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B042D6E-9582-4076-9319-AE9C93E6F407}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\doktor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B042D6E-9582-4076-9319-AE9C93E6F407}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\sevin\\onedrive\\belgeler\\oophastaneproje-devi\\classlibrary1\\bolum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B042D6E-9582-4076-9319-AE9C93E6F407}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\bolum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,54 +58,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Bolum.cs",
-              "DocumentMoniker": "C:\\Users\\sevin\\source\\repos\\HastaneProje\\ClassLibrary1\\Bolum.cs",
+              "DocumentMoniker": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\Bolum.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Bolum.cs",
-              "ToolTip": "C:\\Users\\sevin\\source\\repos\\HastaneProje\\ClassLibrary1\\Bolum.cs",
+              "ToolTip": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\Bolum.cs",
               "RelativeToolTip": "ClassLibrary1\\Bolum.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAjwA0AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:17:51.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T11:17:51.93Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "IRandevuIslemleri.cs",
-              "DocumentMoniker": "C:\\Users\\sevin\\source\\repos\\HastaneProje\\ClassLibrary1\\IRandevuIslemleri.cs",
+              "DocumentMoniker": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\IRandevuIslemleri.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\IRandevuIslemleri.cs",
-              "ToolTip": "C:\\Users\\sevin\\source\\repos\\HastaneProje\\ClassLibrary1\\IRandevuIslemleri.cs",
+              "ToolTip": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\IRandevuIslemleri.cs",
               "RelativeToolTip": "ClassLibrary1\\IRandevuIslemleri.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-25T11:09:42.261Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "HastaForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\sevin\\source\\repos\\HastaneProje\\HastaneProje\\HastaForm.Designer.cs",
-              "RelativeDocumentMoniker": "HastaneProje\\HastaForm.Designer.cs",
-              "ToolTip": "C:\\Users\\sevin\\source\\repos\\HastaneProje\\HastaneProje\\HastaForm.Designer.cs",
-              "RelativeToolTip": "HastaneProje\\HastaForm.Designer.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAwBYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T11:55:22.504Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 1,
               "Title": "GirisForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\sevin\\source\\repos\\HastaneProje\\HastaneProje\\GirisForm.cs",
+              "DocumentMoniker": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\HastaneProje\\GirisForm.cs",
               "RelativeDocumentMoniker": "HastaneProje\\GirisForm.cs",
-              "ToolTip": "C:\\Users\\sevin\\source\\repos\\HastaneProje\\HastaneProje\\GirisForm.cs [Design]",
+              "ToolTip": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\HastaneProje\\GirisForm.cs [Design]",
               "RelativeToolTip": "HastaneProje\\GirisForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-30T11:44:53.447Z",
@@ -121,24 +99,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "GirisForm.cs",
-              "DocumentMoniker": "C:\\Users\\sevin\\source\\repos\\HastaneProje\\HastaneProje\\GirisForm.cs",
+              "DocumentMoniker": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\HastaneProje\\GirisForm.cs",
               "RelativeDocumentMoniker": "HastaneProje\\GirisForm.cs",
-              "ToolTip": "C:\\Users\\sevin\\source\\repos\\HastaneProje\\HastaneProje\\GirisForm.cs",
+              "ToolTip": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\HastaneProje\\GirisForm.cs",
               "RelativeToolTip": "HastaneProje\\GirisForm.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-30T11:05:38.809Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "HastaForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\sevin\\source\\repos\\HastaneProje\\HastaneProje\\HastaForm.cs",
+              "DocumentMoniker": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\HastaneProje\\HastaForm.cs",
               "RelativeDocumentMoniker": "HastaneProje\\HastaForm.cs",
-              "ToolTip": "C:\\Users\\sevin\\source\\repos\\HastaneProje\\HastaneProje\\HastaForm.cs [Design]",
+              "ToolTip": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\HastaneProje\\HastaForm.cs [Design]",
               "RelativeToolTip": "HastaneProje\\HastaForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-30T10:59:36.764Z",
@@ -146,24 +124,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HastaForm.cs",
-              "DocumentMoniker": "C:\\Users\\sevin\\source\\repos\\HastaneProje\\HastaneProje\\HastaForm.cs",
-              "RelativeDocumentMoniker": "HastaneProje\\HastaForm.cs",
-              "ToolTip": "C:\\Users\\sevin\\source\\repos\\HastaneProje\\HastaneProje\\HastaForm.cs",
-              "RelativeToolTip": "HastaneProje\\HastaForm.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAcwCAAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T11:08:47.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "DoktorForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\sevin\\source\\repos\\HastaneProje\\HastaneProje\\DoktorForm.cs",
+              "DocumentMoniker": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\HastaneProje\\DoktorForm.cs",
               "RelativeDocumentMoniker": "HastaneProje\\DoktorForm.cs",
-              "ToolTip": "C:\\Users\\sevin\\source\\repos\\HastaneProje\\HastaneProje\\DoktorForm.cs [Design]",
+              "ToolTip": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\HastaneProje\\DoktorForm.cs [Design]",
               "RelativeToolTip": "HastaneProje\\DoktorForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-30T10:59:56.037Z",
@@ -171,24 +136,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "DoktorForm.cs",
-              "DocumentMoniker": "C:\\Users\\sevin\\source\\repos\\HastaneProje\\HastaneProje\\DoktorForm.cs",
+              "DocumentMoniker": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\HastaneProje\\DoktorForm.cs",
               "RelativeDocumentMoniker": "HastaneProje\\DoktorForm.cs",
-              "ToolTip": "C:\\Users\\sevin\\source\\repos\\HastaneProje\\HastaneProje\\DoktorForm.cs",
+              "ToolTip": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\HastaneProje\\DoktorForm.cs",
               "RelativeToolTip": "HastaneProje\\DoktorForm.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-30T11:08:16.778Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Randevu.cs",
-              "DocumentMoniker": "C:\\Users\\sevin\\source\\repos\\HastaneProje\\ClassLibrary1\\Randevu.cs",
+              "DocumentMoniker": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\Randevu.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Randevu.cs",
-              "ToolTip": "C:\\Users\\sevin\\source\\repos\\HastaneProje\\ClassLibrary1\\Randevu.cs",
+              "ToolTip": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\Randevu.cs",
               "RelativeToolTip": "ClassLibrary1\\Randevu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -199,50 +164,48 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Hastane.cs",
-              "DocumentMoniker": "C:\\Users\\sevin\\source\\repos\\HastaneProje\\ClassLibrary1\\Hastane.cs",
+              "DocumentMoniker": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\Hastane.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Hastane.cs",
-              "ToolTip": "C:\\Users\\sevin\\source\\repos\\HastaneProje\\ClassLibrary1\\Hastane.cs*",
-              "RelativeToolTip": "ClassLibrary1\\Hastane.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\Hastane.cs",
+              "RelativeToolTip": "ClassLibrary1\\Hastane.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-30T11:02:02.627Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Hasta.cs",
-              "DocumentMoniker": "C:\\Users\\sevin\\source\\repos\\HastaneProje\\ClassLibrary1\\Hasta.cs",
+              "DocumentMoniker": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\Hasta.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Hasta.cs",
-              "ToolTip": "C:\\Users\\sevin\\source\\repos\\HastaneProje\\ClassLibrary1\\Hasta.cs",
+              "ToolTip": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\Hasta.cs",
               "RelativeToolTip": "ClassLibrary1\\Hasta.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T11:02:47.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-30T11:02:47.466Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Doktor.cs",
-              "DocumentMoniker": "C:\\Users\\sevin\\source\\repos\\HastaneProje\\ClassLibrary1\\Doktor.cs",
+              "DocumentMoniker": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\Doktor.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Doktor.cs",
-              "ToolTip": "C:\\Users\\sevin\\source\\repos\\HastaneProje\\ClassLibrary1\\Doktor.cs",
+              "ToolTip": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\Doktor.cs",
               "RelativeToolTip": "ClassLibrary1\\Doktor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T11:00:50.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-30T11:00:50.212Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Kisi.cs",
-              "DocumentMoniker": "C:\\Users\\sevin\\source\\repos\\HastaneProje\\ClassLibrary1\\Kisi.cs",
+              "DocumentMoniker": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\Kisi.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Kisi.cs",
-              "ToolTip": "C:\\Users\\sevin\\source\\repos\\HastaneProje\\ClassLibrary1\\Kisi.cs",
+              "ToolTip": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\Kisi.cs",
               "RelativeToolTip": "ClassLibrary1\\Kisi.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-30T11:03:03.516Z",
               "EditorCaption": ""

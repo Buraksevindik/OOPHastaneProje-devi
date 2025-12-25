@@ -37,16 +37,17 @@
             // listBoxRandevular
             // 
             listBoxRandevular.FormattingEnabled = true;
-            listBoxRandevular.Location = new Point(474, 103);
+            listBoxRandevular.Location = new Point(288, 61);
             listBoxRandevular.Name = "listBoxRandevular";
-            listBoxRandevular.Size = new Size(150, 104);
+            listBoxRandevular.Size = new Size(227, 204);
             listBoxRandevular.TabIndex = 0;
             // 
             // btnSil
             // 
-            btnSil.Location = new Point(338, 103);
+            btnSil.Font = new Font("Segoe UI", 13.8F, FontStyle.Bold);
+            btnSil.Location = new Point(111, 61);
             btnSil.Name = "btnSil";
-            btnSil.Size = new Size(94, 29);
+            btnSil.Size = new Size(114, 43);
             btnSil.TabIndex = 1;
             btnSil.Text = "Sil";
             btnSil.UseVisualStyleBackColor = true;
@@ -54,9 +55,10 @@
             // 
             // btnDegistir
             // 
-            btnDegistir.Location = new Point(338, 174);
+            btnDegistir.Font = new Font("Segoe UI", 13.8F, FontStyle.Bold);
+            btnDegistir.Location = new Point(111, 132);
             btnDegistir.Name = "btnDegistir";
-            btnDegistir.Size = new Size(94, 29);
+            btnDegistir.Size = new Size(114, 43);
             btnDegistir.TabIndex = 2;
             btnDegistir.Text = "Değiştir";
             btnDegistir.UseVisualStyleBackColor = true;
@@ -64,9 +66,10 @@
             // 
             // btnCikis
             // 
-            btnCikis.Location = new Point(338, 250);
+            btnCikis.Font = new Font("Segoe UI", 13.8F, FontStyle.Bold);
+            btnCikis.Location = new Point(111, 208);
             btnCikis.Name = "btnCikis";
-            btnCikis.Size = new Size(94, 29);
+            btnCikis.Size = new Size(114, 43);
             btnCikis.TabIndex = 3;
             btnCikis.Text = "Çıkış";
             btnCikis.UseVisualStyleBackColor = true;
@@ -76,6 +79,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.Turquoise;
             ClientSize = new Size(800, 450);
             Controls.Add(btnCikis);
             Controls.Add(btnDegistir);

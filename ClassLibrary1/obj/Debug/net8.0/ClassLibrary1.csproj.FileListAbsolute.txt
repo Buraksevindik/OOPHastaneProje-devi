@@ -9,3 +9,15 @@ C:\Users\sevin\source\repos\HastaneProje\ClassLibrary1\obj\Debug\net8.0\ClassLib
 C:\Users\sevin\source\repos\HastaneProje\ClassLibrary1\obj\Debug\net8.0\refint\ClassLibrary1.dll
 C:\Users\sevin\source\repos\HastaneProje\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.pdb
 C:\Users\sevin\source\repos\HastaneProje\ClassLibrary1\obj\Debug\net8.0\ref\ClassLibrary1.dll
+C:\Users\sevin\OneDrive\Belgeler\OOPHastaneProje-devi\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.deps.json
+C:\Users\sevin\OneDrive\Belgeler\OOPHastaneProje-devi\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.dll
+C:\Users\sevin\OneDrive\Belgeler\OOPHastaneProje-devi\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.pdb
+C:\Users\sevin\OneDrive\Belgeler\OOPHastaneProje-devi\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevin\OneDrive\Belgeler\OOPHastaneProje-devi\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\sevin\OneDrive\Belgeler\OOPHastaneProje-devi\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfo.cs
+C:\Users\sevin\OneDrive\Belgeler\OOPHastaneProje-devi\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\sevin\OneDrive\Belgeler\OOPHastaneProje-devi\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.sourcelink.json
+C:\Users\sevin\OneDrive\Belgeler\OOPHastaneProje-devi\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.dll
+C:\Users\sevin\OneDrive\Belgeler\OOPHastaneProje-devi\ClassLibrary1\obj\Debug\net8.0\refint\ClassLibrary1.dll
+C:\Users\sevin\OneDrive\Belgeler\OOPHastaneProje-devi\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.pdb
+C:\Users\sevin\OneDrive\Belgeler\OOPHastaneProje-devi\ClassLibrary1\obj\Debug\net8.0\ref\ClassLibrary1.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sevin\\source\\repos\\HastaneProje\\ClassLibrary1\\ClassLibrary1.csproj",
+      "projectUniqueName": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\ClassLibrary1.csproj",
       "projectName": "ClassLibrary1",
-      "projectPath": "C:\\Users\\sevin\\source\\repos\\HastaneProje\\ClassLibrary1\\ClassLibrary1.csproj",
+      "projectPath": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\ClassLibrary1.csproj",
       "packagesPath": "C:\\Users\\sevin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sevin\\source\\repos\\HastaneProje\\ClassLibrary1\\obj\\",
+      "outputPath": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sevin\\AppData\\Roaming\\NuGet\\NuGet.Config",

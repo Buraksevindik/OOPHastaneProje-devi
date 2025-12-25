@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sevin\\source\\repos\\HastaneProje\\HastaneProje\\HastaneProje.csproj",
+      "projectUniqueName": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\HastaneProje\\HastaneProje.csproj",
       "projectName": "HastaneProje",
-      "projectPath": "C:\\Users\\sevin\\source\\repos\\HastaneProje\\HastaneProje\\HastaneProje.csproj",
+      "projectPath": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\HastaneProje\\HastaneProje.csproj",
       "packagesPath": "C:\\Users\\sevin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sevin\\source\\repos\\HastaneProje\\HastaneProje\\obj\\",
+      "outputPath": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\HastaneProje\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\sevin\\source\\repos\\HastaneProje\\ClassLibrary1\\ClassLibrary1.csproj": {
-              "projectPath": "C:\\Users\\sevin\\source\\repos\\HastaneProje\\ClassLibrary1\\ClassLibrary1.csproj"
+            "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\ClassLibrary1.csproj": {
+              "projectPath": "C:\\Users\\sevin\\OneDrive\\Belgeler\\OOPHastaneProje-devi\\ClassLibrary1\\ClassLibrary1.csproj"
             }
           }
         }
