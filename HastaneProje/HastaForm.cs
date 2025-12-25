@@ -61,7 +61,7 @@ namespace HastaneProje
                 listBoxDoktorlar.SelectedItem == null ||
                 listBoxSaatler.SelectedItem == null)
             {
-                MessageBox.Show("Bölüm, doktor ve saat seçmelisiniz!");
+                MessageBox.Show("Bölüm doktor ve saat seçiniz");
                 return;
             }
 

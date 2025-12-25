@@ -10,7 +10,7 @@ namespace HastaneProje
         {
             InitializeComponent();
             comboBoxRol.Items.Add("Hasta");
-            comboBoxRol.Items.Add("Doktor");
+            comboBoxRol.Items.Add("Yönetici");
         }
 
         private void btnGiris_Click(object sender, EventArgs e)
@@ -24,7 +24,7 @@ namespace HastaneProje
                 hf.Show();
                 this.Hide();
             }
-            else if (rol == "Doktor")
+            else if (rol == "Yönetici")
             {
                 DoktorForm df = new DoktorForm(hastane);
                 df.Show();
